@@ -1,0 +1,224 @@
+﻿*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: .875em;
+    background: #f3f4f6;
+}
+li{
+    list-style-type: none;
+}
+.text-link {
+    text-decoration: none;
+}
+
+.text-link:hover {
+    text-decoration: underline;
+}
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+#item-top {
+    background: #178ebc;
+}
+#item-top {
+    padding: 0.75rem 0;
+    color: #fff;
+}
+#item-top .inner {
+    display: flex;
+    justify-content: space-between;
+}
+#item-top .inner .items-right p{
+    text-transform: uppercase;
+}
+#item-top .inner .items-left ul li a{
+    color: #fff;
+}
+#item-top .inner .items-left ul{
+    display: flex;
+    justify-content: space-between;
+}
+#item-top .inner .items-left ul li{
+    padding: 0 0 0 15px;
+}
+#item-top .inner .items-left ul li i{
+    padding-right: 3px;
+}
+
+
+#menu {
+    background :#45afc4; 
+    padding: 0.75rem 0;
+    color: #fff;
+}
+#menu .inner .main-menu .list-menu{
+    display:flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+#logo {
+    max-width: 200px;
+}
+
+#logo .inner {
+    padding: 10px 0;
+}
+
+#logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+#search .inner {
+    max-width: 700px;
+    margin: auto auto;
+    padding: 10px 0;
+}
+
+.input-button {
+    display: flex;
+    align-items: center;
+}
+
+#search #txtSearch {
+    width: 80%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+#search {
+    flex-basis: 35%; 
+    align-self: center;
+}
+
+#search #btnSearch {
+    background-color: #178ebc;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+#search #btnSearch:hover {
+    background-color: #0056b3;
+}
+
+
+
+#account{
+    align-self: center;
+}
+#account .inner {
+    display: flex;
+    padding: 10px 0;
+    align-items: center;
+}
+
+#account button {
+    width: 2rem;
+    height: 2rem;
+    background-color: #178ebc;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+#account .inner .acc{
+    display: flex;
+    align-items: center;
+}
+#account .inner .acc #btnLogin,
+#account .inner .acc #btnRegister{
+    margin: 0 5px;
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    background:none;
+}
+
+#cart{
+    align-self: center;
+}
+#cart .inner #btnCart{
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    background:none;
+}
+#cart .inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#cart #icon {
+    margin-right: 10px;
+}
+
+#cart i {
+    font-size: 20px;
+}
+
+
+#cart div:nth-child(3) {
+    background-color: #fff;
+    color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 50%;
+    padding: 5px 10px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+.pointer {
+    cursor: pointer;
+}
+
+.menu-link .inner-menu-link{
+    padding: 0.75rem 0;
+}
+.items-menu-link{
+    display:flex;
+    justify-content: space-between;
+}
+.items-menu-link li .large{
+    font-size: large;
+    margin-right: 5px;
+}
+.items-menu-link li .text-a {
+    color: #fff;
+    font-size: larger;
+    text-decoration: none;
+}
+.items-menu-link li .text-a:hover {
+    text-decoration: underline;
+}
+#item-bottom{
+    padding: 0.75rem 0;
+    background: #fff;
+}
+.nav-link{
+    display:flex;
+    justify-content:center;
+}
+.nav-link asp{
+    width: 100px;
+}
+.nav-link asp h3{
+    text-align:center;
+}
