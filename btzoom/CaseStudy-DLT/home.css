@@ -1,0 +1,85 @@
+nav{
+    position: fixed;
+    height: 30px;
+}
+.nav-logo img{
+    width: 80px;
+}
+.form-control{
+    visibility: hidden;
+}
+.search:hover .form-control {
+    visibility: inherit;
+}
+
+/*section2*/
+
+.title-text2{
+    border-bottom: 1px solid #ccc;
+}
+.space-10{
+    margin-bottom: 10px;
+}
+.title-text2 h2{
+    
+    padding-bottom: 6px;
+    font-family: "Oswald";
+    line-height: 38px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.title a{
+    text-decoration: none!important;
+    background: transparent;
+}
+.title-text2 a .read-more{
+    color: #999;
+}
+.home-blog .item{
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #ccc;
+}
+.home-blog .item .thumb{
+    width: calc(30% - 15px);
+    margin-right: 15px;
+    max-height: 200px;
+}
+.home-blog .item .thumb:hover img{
+    filter: brightness(85%);
+}
+.img-shine{
+    overflow: hidden;
+    position: relative;
+}
+.home-blog .item .text{
+    width: 66%;
+}
+.home-blog .item .text .date{
+    width: 50px;
+    height: 60px;
+    background: #eaeaea;
+    margin-right: 10px;
+    font-size: 24px;
+    padding-top: 3px;
+}
+.home-blog .item .text .date span{
+    background: #999;
+    color: #fff;
+    font-size: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    display: inline-block;
+}
+.home-blog .item .text .text-three{
+    -webkit-line-clamp: 3;
+}
+.home-blog .item .text .text-line{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
