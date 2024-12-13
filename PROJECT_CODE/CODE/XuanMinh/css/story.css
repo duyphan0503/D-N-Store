@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #ecb2c8;
+}
+.box{
+    position: relative;
+    width: 250px;
+    height: 350px;
+    transform-style: preserve-3d;
+    animation: animation 20s linear infinite;
+}
+
+@keyframes animation{
+    0%{
+        transform: perspective(1000px) rotateY(0deg);
+    }
+    100%{
+        transform: perspective(1000px) rotateY(360deg);
+    }
+}
+.box span{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform-origin: center;
+    transform-style: preserve-3d;
+    transform: rotateY(calc(var(--i) * 45deg)) translateZ(400px);
+}
+.box span img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+}
+    
+/* Popup Style */
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: none; /* Ẩn popup */
+    justify-content: center;
+    align-items: center;
+    opacity: 0; /* Popup bắt đầu ẩn */
+    transition: opacity 0.3s ease-in-out; /* Hiệu ứng mờ dần */
+}
+
+/* Khi popup hiển thị */
+.popup.show {
+    display: flex; /* Hiển thị popup */
+    opacity: 1; /* Tăng độ mờ khi hiển thị */
+}
+
+/* Popup content */
+.popup-content {
+    background-color: #FFEBEB;
+    border-radius: 8px;
+    max-width: 400px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 19px;
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px;
+    font-family: 'Dancing Script', cursive;
+    transform: scale(0) translateY(-50px); /* Ban đầu popup bị thu nhỏ và dịch lên */
+    animation: zoomIn 0.6s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards; /* Hiệu ứng zoom và đàn hồi */
+}
+
+/* Hiệu ứng zoom từ trong ra và đàn hồi */
+@keyframes zoomIn {
+    0% {
+        transform: scale(0) translateY(-50px); /* Bắt đầu từ thu nhỏ và dịch lên */
+    }
+    50% {
+        transform: scale(1.2) translateY(5px); /* Phóng to quá kích thước bình thường */
+    }
+    70% {
+        transform: scale(1.1) translateY(0); /* Phóng to vừa phải */
+    }
+    100% {
+        transform: scale(1) translateY(0); /* Quay lại kích thước bình thường */
+    }
+}
+
+.popup-content p {
+    margin: 0;
+    font-size: 22px;
+    color: #333;
+}
+
+.popup-content button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #f975a7;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.popup-content button:hover {
+    background-color: #dc296d;
+}
+
+#close-popup img{
+    width: 100%;
+    height: 20px;
+    object-fit: cover;
+}
+.btnCountdown {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+}
+
+.btnCountdown img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    cursor: pointer;    
+}
+
+#cursor {
+    transform: rotateZ(30deg); /* Xoay ngón tay về phía trái tim */
+    animation: pointToHeart 1s infinite ease-in-out; /* Hiệu ứng chỉ tới chỉ lui */
+}
+
+#heart {
+    transform: translateY(-20px);
+    animation: zoomInOut 1s infinite ease-in-out; /* Zoom ra vào */
+}
+
+/* Hoạt ảnh zoom */
+@keyframes zoomInOut {
+    0%, 100% {
+        transform: scale(1); /* Trạng thái ban đầu */
+    }
+    50% {
+        transform: scale(1.1); /* Zoom vào nhẹ */
+    }
+}
+
+/* Hoạt ảnh chỉ tới chỉ lui */
+@keyframes pointToHeart {
+    0%, 100% {
+        transform: rotateZ(50deg) translateX(10px); /* Trạng thái ban đầu */
+    }
+    50% {
+        transform: rotateZ(30deg) translateX(10px); /* Chỉ ngón tay về trái tim */
+    }
+}
+
+.btnCountdown #heart:hover {
+    filter: brightness(150%); /* Tăng độ sáng */
+    animation: zoomInOut 1s infinite ease-in-out; /* Zoom ra vào */
+}
