@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|d:\\phanmem_qlquannet\\da1_qlquannet\\da1_qlquannet\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|d:\\phanmem_qlquannet\\da1_qlquannet\\da1_qlquannet\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|d:\\phanmem_qlquannet\\da1_qlquannet\\da1_qlquannet\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|d:\\phanmem_qlquannet\\da1_qlquannet\\da1_qlquannet\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|d:\\phanmem_qlquannet\\da1_qlquannet\\da1_qlquannet\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|d:\\phanmem_qlquannet\\da1_qlquannet\\da1_qlquannet\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmHoaDon.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs",
+              "RelativeToolTip": "DA1_QLQuanNET\\frmHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:58:50.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmHoaDon.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "DA1_QLQuanNET\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:58:48.982Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmMenu.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmMenu.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmMenu.cs",
+              "RelativeToolTip": "DA1_QLQuanNET\\frmMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:58:13.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmMenu.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmMenu.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmMenu.cs [Design]",
+              "RelativeToolTip": "DA1_QLQuanNET\\frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:58:10.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDichVu.cs",
+              "DocumentMoniker": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDichVu.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmDichVu.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDichVu.cs",
+              "RelativeToolTip": "DA1_QLQuanNET\\frmDichVu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:57:58.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDichVu.cs [Design]",
+              "DocumentMoniker": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDichVu.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmDichVu.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDichVu.cs [Design]",
+              "RelativeToolTip": "DA1_QLQuanNET\\frmDichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:57:57.068Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
