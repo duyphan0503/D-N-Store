@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|d:\\phanmem_quanly_cb_cc\\phanmem_quanly_cbcc\\phanmem_quanly_cbcc\\forms\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|d:\\phanmem_quanly_cb_cc\\phanmem_quanly_cbcc\\phanmem_quanly_cbcc\\forms\\frmposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\phanmem_quanly_cbcc\\forms\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|d:\\phanmem_quanly_cb_cc\\phanmem_quanly_cbcc\\phanmem_quanly_cbcc\\forms\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|d:\\phanmem_quanly_cb_cc\\phanmem_quanly_cbcc\\phanmem_quanly_cbcc\\forms\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|d:\\phanmem_quanly_cb_cc\\phanmem_quanly_cbcc\\phanmem_quanly_cbcc\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\phanmem_quanly_cbcc\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|d:\\phanmem_quanly_cb_cc\\phanmem_quanly_cbcc\\phanmem_quanly_cbcc\\forms\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|d:\\phanmem_quanly_cb_cc\\phanmem_quanly_cbcc\\phanmem_quanly_cbcc\\forms\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|d:\\phanmem_quanly_cb_cc\\phanmem_quanly_cbcc\\phanmem_quanly_cbcc\\forms\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CAFE10-08CB-44E7-9E97-0BDC01D5F49B}|PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC.csproj|solutionrelative:phanmem_quanly_cbcc\\forms\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 519,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSalary.cs [Design]",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmSalary.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmSalary.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmSalary.cs [Design]*",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmSalary.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:56:42.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPosition.cs [Design]",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmPosition.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmPosition.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmPosition.cs [Design]",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmPosition.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:41:02.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDepartment.cs [Design]",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmDepartment.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmDepartment.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmDepartment.cs [Design]",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmDepartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:06:47.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAccount.cs [Design]",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmAccount.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmAccount.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmAccount.cs [Design]",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:45:33.076Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmQLNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmQLNhanVien.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmQLNhanVien.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmQLNhanVien.cs [Design]",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmQLNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:04:37.174Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmMenu.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmMenu.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmMenu.cs [Design]",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:31:56.958Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 75,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmSalary.cs",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmSalary.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmSalary.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmSalary.cs*",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmSalary.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:56:53.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmMenu.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmMenu.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmMenu.cs",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmMenu.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAQwMcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:44:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmQLNhanVien.cs",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmQLNhanVien.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmQLNhanVien.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmQLNhanVien.cs",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmQLNhanVien.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:51:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAccount.cs",
+              "DocumentMoniker": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmAccount.cs",
+              "RelativeDocumentMoniker": "PhanMem_QuanLy_CBCC\\Forms\\frmAccount.cs",
+              "ToolTip": "D:\\PhanMem_QuanLy_CB_CC\\PhanMem_QuanLy_CBCC\\PhanMem_QuanLy_CBCC\\Forms\\frmAccount.cs",
+              "RelativeToolTip": "PhanMem_QuanLy_CBCC\\Forms\\frmAccount.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:57:33.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
